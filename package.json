@@ -1,12 +1,24 @@
 {
-  "name": "filereader",
+  "name": "recursivefilereader",
   "version": "1.0.0",
-  "description": "",
+  "type": "commonjs",
+  "description": "Takes a directory and returns all its child files paths in an array",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DasSubhadip1999/recursivefilereader"
+  },
+  "keywords": [
+    "filereader",
+    "recursivefilereader"
+  ],
+  "author": "subhadip_das",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.16.2",
+    "typescript": "^5.0.4"
+  }
 }
