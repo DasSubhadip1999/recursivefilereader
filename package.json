@@ -1,6 +1,6 @@
 {
   "name": "recursivefilereader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "commonjs",
   "description": "Takes a directory and returns all its child files paths in an array",
   "main": "index.js",
